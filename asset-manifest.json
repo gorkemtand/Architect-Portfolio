@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Architect-Portfolio/static/js/main.99c09ea0.js",
+    "static/media/profile_pic.png": "/Architect-Portfolio/static/media/profile_pic.3bb5cd358f61fbf227bc.png",
+    "index.html": "/Architect-Portfolio/index.html",
+    "main.99c09ea0.js.map": "/Architect-Portfolio/static/js/main.99c09ea0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99c09ea0.js"
+  ]
+}

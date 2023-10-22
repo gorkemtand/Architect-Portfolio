@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePic from "../images/profile_pic.png";
+
 
 function Profile() {
   return (
@@ -12,7 +12,7 @@ function Profile() {
       </div>
       <div className="profilePicContainer">
         <div className="picInnerContainer">
-          <img className="pic" src={ProfilePic} alt="" srcset="" />
+          <img className="pic" src="https://storage.googleapis.com/gorkemtandogan-images/Projects/Architect%20Portfolio/profile_pic.png" alt="" srcset="" />
         </div>
       </div>
     </div>

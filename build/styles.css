@@ -83,6 +83,7 @@ body {
 
 .social-buttons {
   margin-right: 50px;
+  z-index: 2;
 }
 .social-buttons.show {
   display: flex; /* Show the social buttons when the menu is open */
